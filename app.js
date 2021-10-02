@@ -1,5 +1,5 @@
 let orange = 100;
-let apple = 120;
+let apple = 135;
 
 if(orange < apple){
   alert('みかんの値段がりんごより安い');
